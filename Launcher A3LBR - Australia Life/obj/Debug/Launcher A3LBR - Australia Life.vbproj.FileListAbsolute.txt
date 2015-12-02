@@ -1,0 +1,21 @@
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\Launcher A3LBR - Australia Life.exe
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\Launcher A3LBR - Australia Life.pdb
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\Launcher A3LBR - Australia Life.xml
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Launcher.resources
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Login.resources
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Resources.resources
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.vbproj.GenerateResource.Cache
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.exe
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.xml
+c:\users\renildo\documents\visual studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.pdb
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Registro.resources
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.vbprojResolveAssemblyReference.cache
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\Interop.WMPLib.dll
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Interop.WMPLib.dll
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher A3LBR - Australia Life.vbproj.ResolveComReference.cache
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Inicio.resources
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\bin\Debug\Launcher A3LBR - Australia Life.exe.config
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.tf_instalador.resources
+C:\Users\Renildo\Documents\Visual Studio 2013\Projects\Launcher A3LBR - Australia Life\Launcher A3LBR - Australia Life\obj\Debug\Launcher_A3LBR___Australia_Life.Codigo_Launcher.resources
